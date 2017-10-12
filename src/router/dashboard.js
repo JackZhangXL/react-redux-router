@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 
-export default class About extends Component {
+export default class Dashboard extends Component {
     render() {
         return (
-            <h3>learning react router</h3>
+            <div>Welcome to the app!</div>
         );
     }
 }
