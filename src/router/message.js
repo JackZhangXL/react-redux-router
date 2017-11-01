@@ -22,7 +22,7 @@ export default class Message extends Component {
     render() {
         return (
             <div>
-                <h3>Hello {this.props.params.id}</h3>
+                Hello <b>{this.props.params.id}</b>
                 <p>{this.state.msg}</p>
             </div>
         );

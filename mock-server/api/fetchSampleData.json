@@ -1,6 +1,6 @@
 {
     "code": 200,
     "msg": {
-        "msg": "Fetched sample data successfully!"
+        "msg": "Fetched demo message!"
     }
 }
